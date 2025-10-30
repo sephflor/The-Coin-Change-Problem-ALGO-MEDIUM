@@ -1,1 +1,1 @@
-# The-Coin-Change-Problem-ALGO-MEDIUM
+# The-Coin-Change-Problem-ALGO-MEDIUM.The program uses dynamic programming: ways[i] stores the number of ways to make amount i. For each coin, it updates all amounts greater than or equal to the coin by adding the number of ways to make the remaining amount (i - coin).
